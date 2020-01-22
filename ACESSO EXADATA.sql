@@ -1,3 +1,5 @@
+Teste de alteração para visualização do Aurélio.
+
 1-log no entreposto linux1 
 2-log com ssh cpf e senha ldap no ip 10.193.34.96 - LDAP
 3-execute:  sudo su - dwpub
