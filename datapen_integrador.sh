@@ -6,7 +6,8 @@ PAR_UF=AC,AM,RN,SC,TO
 
 set -e  # Interrompe execução imediatamente em caso de algum comando com erro.
 java -jar "$HOME_INTEGRADOR/datapen-integracao.jar" dados.uf="$PAR_UF" filtrar.por.uf=true logBasePath="$PAR_LOG_DIR" config="$PAR_CONFIG"
-teste aurelio alteraçao 
+teste aurelioalteraçao 
+
 mandando pull request 
 
 
